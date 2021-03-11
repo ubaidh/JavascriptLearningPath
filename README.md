@@ -64,4 +64,36 @@
 * *Parameter & Arguments*
 * *Scope*
 * *Arrow Function*
+### WEB API
+* **DOM**
+* **FECTH**
+* **EVENT LISTENERS**
+* **STORAGE**
+* **Video and Audio**
 
+### Further
+### Clousure
+### Currying
+### This
+* *implicit Binding*
+* *Explicit Binding*
+* *new Binding*
+* *Lexical Binding*
+* *Default Binding*
+### Prototype
+### Prototype Inheritance
+### Class
+### iterators
+### Generators
+### Event Loop
+## Asynchronous Javascript
+* *setTimeout*
+* *setInterval*
+* *callbacks*
+* *Promises*
+* *async await*
+## Module System
+* **CJS**
+* **Esm**
+* **import/Export**
+*  **Default and Named Exports**
