@@ -1,9 +1,9 @@
-## Javascript Learning Path 
-## Running javascript
+# Javascript Learning Path 
+### Running javascript
 * *Script Tag*
 * *Browser Console*
 * *Link External File*  
-## Variables
+### Variables
 ### Declaration
 * *var*
 * *let*
