@@ -35,7 +35,7 @@
 *  *Implicit*
 ### Equality
 * == vs ===
-### Loops
+### Loops :loop:
 * *While*
 * *do...while*
 * *for*
