@@ -88,14 +88,14 @@
 ### Generators
 ### Event Loop
 
-## Asynchronous Javascript
+### Asynchronous Javascript
 * *setTimeout*
 * *setInterval*
 * *callbacks*
 * *Promises*
 * *async await*
 
-## Module System
+### Module System
 * **CJS**
 * **Esm**
 * **import/Export**
