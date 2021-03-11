@@ -1,17 +1,67 @@
-# Javascript Learning Path 
+## Javascript Learning Path 
 ## Running javascript
-1. *Script Tag*
-2. *Browser Console*
-3. *Link External File*  
+* *Script Tag*
+* *Browser Console*
+* *Link External File*  
 ## Variables
 ### Declaration
-1. *var*
-2. *let*
-3. *const*
+* *var*
+* *let*
+* *const*
 ### Scope
-1. *Global*
-2. *Function*
-3. *Block*
-### Hoisting
-## DataTypes and DataStructures
+* *Global*
+* *Function*
+* *Block*
+#### Hoisting
+### DataTypes and DataStructures
+### Primitive Type
+* *undefined*
+* *Number*
+* *Boolean*
+* *BigInt*
+* *String*
+* *Symbol*
+### Complex Type
+* *null*
+* *Function*
+* *Object*
+### DataStructure
+* *Array*
+* *Set*
+* *Map*
+* *Date*
+### Type Conversion
+* *Explicit*
+*  *Implicit*
+### Equality
+* == vs ===
+### Loops
+* *While*
+* *do...while*
+* *for*
+* *break/continue*
+* *for...in*
+* *for...of*
+### Control Flow
+* *if...else*
+* *switch*
+* *try/catch/throw*
+### Expression & Operators
+* *Assignment Operator*
+* *Arithmetic Opearator*
+* *Logical Operator*
+* *Conditional Operator*
+* *Comparision Operator*
+* *Relational Operator*
+* *Bitwise Operator*
+* *String Operator*
+* *Comma Operator*
+* *Unary Operator*
+### Functions
+* *Function Declarations*
+* *Function Expressions*
+* *Calling Function *
+* *Parameter & Arguments*
+* *Scope*
+* *Arrow Function*
 
