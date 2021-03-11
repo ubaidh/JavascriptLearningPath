@@ -80,18 +80,21 @@
 * *new Binding*
 * *Lexical Binding*
 * *Default Binding*
+
 ### Prototype
 ### Prototype Inheritance
 ### Class
 ### iterators
 ### Generators
 ### Event Loop
+
 ## Asynchronous Javascript
 * *setTimeout*
 * *setInterval*
 * *callbacks*
 * *Promises*
 * *async await*
+
 ## Module System
 * **CJS**
 * **Esm**
