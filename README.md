@@ -1,4 +1,4 @@
-# Javascript Learning Path 
+### Javascript Learning Path 
 ### Running javascript
 * *Script Tag*
 * *Browser Console*
