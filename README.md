@@ -1,4 +1,4 @@
-### Javascript Learning Path :school::school::school::school::school::school::school::school::school::school:
+### :school::school::school: Javascript Learning Path 
 ### Running javascript
 * *Script Tag*
 * *Browser Console*
