@@ -60,7 +60,7 @@
 ### Functions
 * *Function Declarations*
 * *Function Expressions*
-* *Calling Function *
+* *Calling Function*
 * *Parameter & Arguments*
 * *Scope*
 * *Arrow Function*
