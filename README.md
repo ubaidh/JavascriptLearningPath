@@ -15,12 +15,12 @@
 #### Hoisting
 ### DataTypes and DataStructures
 ### Primitive Type
-* *undefined*
-* *Number*
-* *Boolean*
-* *BigInt*
-* *String*
-* *Symbol*
+* [*undefined*](https://developer.mozilla.org/en-US/docs/Glossary/undefined)
+* [*Number*](https://developer.mozilla.org/en-US/docs/Glossary/Number)
+* [*Boolean*](https://developer.mozilla.org/en-US/docs/Glossary/Boolean)
+* [*BigInt*](https://developer.mozilla.org/en-US/docs/Glossary/BigInt)
+* [*String*](https://developer.mozilla.org/en-US/docs/Glossary/String)
+* [*Symbol*](https://developer.mozilla.org/en-US/docs/Glossary/Symbol)
 ### Complex Type
 * *null*
 * *Function*
