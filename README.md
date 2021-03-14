@@ -3,11 +3,11 @@
 * *Script Tag*
 * *Browser Console*
 * *Link External File*  
-### Variables
+### [Variables](https://developer.mozilla.org/en-US/docs/Glossary/Variable)
 ### Declaration
-* *var*
-* *let*
-* *const*
+* [*var*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+* [*let*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+* [*const*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 ### Scope
 * *Global*
 * *Function*
