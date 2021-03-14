@@ -58,12 +58,12 @@
 * *Comma Operator*
 * *Unary Operator*
 ### [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-* *Function Declarations*
-* *Function Expressions*
-* *Calling Function*
-* *Parameter & Arguments*
-* *Scope*
-* *Arrow Function*
+* [*Function Declarations*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_declarations)
+* [*Function Expressions*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_expressions)
+* [*Calling Function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#calling_functions)
+* [*Parameter & Arguments*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_parameters)
+* [*Scope*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope)
+* [*Arrow Function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 ### WEB API
 * **DOM**
 * **FECTH**
@@ -72,7 +72,7 @@
 * **Video and Audio**
 
 ### Further
-### Clousure
+### [Clousure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#closures)
 ### Currying
 ### This
 * *implicit Binding*
