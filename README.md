@@ -1,4 +1,5 @@
 ### :school::school::school: Javascript Learning Path 
+### [what is javaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#what_is_javascript)
 ### Running javascript
 * *Script Tag*
 * *Browser Console*
