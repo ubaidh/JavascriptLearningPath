@@ -13,7 +13,7 @@
 * *Function*
 * *Block*
 #### Hoisting
-### DataTypes and DataStructures
+### [DataTypes and DataStructures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 ### Primitive Type
 * [*undefined*](https://developer.mozilla.org/en-US/docs/Glossary/undefined)
 * [*Number*](https://developer.mozilla.org/en-US/docs/Glossary/Number)
