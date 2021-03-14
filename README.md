@@ -57,7 +57,7 @@
 * *String Operator*
 * *Comma Operator*
 * *Unary Operator*
-### Functions
+### [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * *Function Declarations*
 * *Function Expressions*
 * *Calling Function*
