@@ -24,13 +24,13 @@
 * [*Symbol*](https://developer.mozilla.org/en-US/docs/Glossary/Symbol)
 ### Complex Type
 * *null*
-* *Function*
+* [*Function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
 * *Object*
 ### DataStructure
 * *Array*
 * *Set*
 * *Map*
-* *Date*
+* [*Date*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 ### Type Conversion
 * *Explicit*
 *  *Implicit*
