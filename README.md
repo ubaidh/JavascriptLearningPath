@@ -49,7 +49,7 @@
 * *try/catch/throw*
 ### Expression & Operators
 * *Assignment Operator*
-* *Arithmetic Opearator*
+* [*Arithmetic Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators)
 * *Logical Operator*
 * *Conditional Operator*
 * *Comparision Operator*
