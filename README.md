@@ -84,7 +84,7 @@
 
 ### Prototype
 ### Prototype Inheritance
-### Class
+### [Class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class)
 ### iterators
 ### Generators
 ### Event Loop
