@@ -48,16 +48,16 @@
 * *switch*
 * *try/catch/throw*
 ### Expression & Operators
-* *Assignment Operator*
+* [*Assignment Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators)
 * [*Arithmetic Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators)
 * *Logical Operator*
 * *Conditional Operator*
-* *Comparision Operator*
-* *Relational Operator*
-* *Bitwise Operator*
+* [*Relational Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#relational_operators)
+* [*Bitwise Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#bitwise_shift_operators)
 * *String Operator*
-* *Comma Operator*
-* *Unary Operator*
+* [*Comma Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#comma_operator)
+* [*Unary Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators)
+* [*equality Operators*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)
 ### [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 * [*Function Declarations*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_declarations)
 * [*Function Expressions*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_expressions)
