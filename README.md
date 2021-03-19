@@ -37,16 +37,16 @@
 ### Equality
 * == vs ===
 ### Loops :loop:
-* *While*
-* *do...while*
-* *for*
-* *break/continue*
-* *for...in*
-* *for...of*
+* [*While*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+* [*do...while*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
+* [*for*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+* [*break/continue*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)
+* [*for...in*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+* [*for...of*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 ### Control Flow
-* *if...else*
-* *switch*
-* *try/catch/throw*
+* [*if...else*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+* [*switch*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+* [*try/catch/throw*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 ### Expression & Operators
 * [*Assignment Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators)
 * [*Arithmetic Operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators)
