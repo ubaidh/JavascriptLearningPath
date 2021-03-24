@@ -91,7 +91,7 @@
 
 ### Asynchronous Javascript
 * [*setTimeout*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
-* *setInterval*
+* [*setInterval*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 * *callbacks*
 * *Promises*
 * *async await*
