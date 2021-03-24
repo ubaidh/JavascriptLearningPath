@@ -90,7 +90,7 @@
 ### Event Loop
 
 ### Asynchronous Javascript
-* *setTimeout*
+* [*setTimeout*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
 * *setInterval*
 * *callbacks*
 * *Promises*
